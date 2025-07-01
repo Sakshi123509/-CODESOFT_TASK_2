@@ -70,3 +70,30 @@ body {
   color: white;
   background-color: orangered;
 }
+@media (max-width: 500px) {
+  .calculator {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .display {
+    font-size: 20px;
+    padding: 15px;
+    height: 80px;
+  }
+
+  .buttons {
+    gap: 10px;
+  }
+
+  .btn {
+    width: 60px;
+    height: 60px;
+    font-size: 1.5rem;
+    border-radius: 12px;
+  }
+
+  .zero {
+    width: calc(2 * 60px + 10px); /* 2 buttons + gap */
+  }
+}
