@@ -18,7 +18,16 @@ The calculator performs standard arithmetic operations including addition, subtr
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![Calculator Preview] calculator_preview.png 
+![Calculator Preview] (calculator_preview.png)
 
 ## 🔗 Live Demo
 [🌐 View Live Website](https://sakshi123509.github.io/-CODESOFT_TASK_2/)
+
+📬 Submission
+This project is submitted as part of my internship tasks under #CODSOFT.
+Feel free to explore and suggest improvements!
+
+🔖 Tags
+#codsoft #internship #webdevelopment #frontend #gsap #htmlcss #javascript
+
+© 2025 | Created with ❤️ by Sakshi
