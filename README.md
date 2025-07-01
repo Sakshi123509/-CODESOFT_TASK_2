@@ -18,7 +18,7 @@ The calculator performs standard arithmetic operations including addition, subtr
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![Calculator Preview] (calculator_preview.png)
+![Calculator Preview] calculator_preview.png
 
 ## 🔗 Live Demo
 [🌐 View Live Website](https://sakshi123509.github.io/-CODESOFT_TASK_2/)
