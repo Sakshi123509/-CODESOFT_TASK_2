@@ -18,7 +18,7 @@ The calculator performs standard arithmetic operations including addition, subtr
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![Calculator Preview](calculator-preview.png) <!-- Update path if needed -->
+![Calculator Preview] calculator_preview <!-- Update path if needed -->
 
 ## 🔗 Live Demo
-[🌐 View Live Website](https://sakshi123509.github.io/CODSOFT/Task2-Calculator/)
+[🌐 View Live Website](https://sakshi123509.github.io/-CODESOFT_TASK_2/)
