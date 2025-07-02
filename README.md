@@ -28,6 +28,6 @@ This project is submitted as part of my internship tasks under #CODSOFT.
 Feel free to explore and suggest improvements!
 
 🔖 Tags
-#codsoft #internship #webdevelopment #frontend #gsap #htmlcss #javascript
 
+#codsoft #internship #webdevelopment #frontend #gsap #htmlcss #javascript
 © 2025 | Created with ❤️ by Sakshi
